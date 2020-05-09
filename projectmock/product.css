@@ -1,0 +1,201 @@
+.bodypart
+		{
+			border: 1px solid;
+			position: absolute;
+			left: 50px;
+			width: 1300px;
+			height: 600px;
+			padding: 10px;
+			margin: 10px;
+		}
+		.subpart
+		{
+			border: 1px solid;
+			width: 300px;
+			height: 582px;
+         background-color: #808080;
+		}
+		.block
+		{
+		 border: 1px solid;
+		 width: auto;
+		 height: 25px;
+       background-color: 	#00ffff;
+		}
+		ul li
+		{
+			list-style: none;
+			padding: 10px;
+			margin: 10px;
+			text-align: center;
+			font-size: 30px;
+		}
+		.subpart li:hover
+		{
+			background-color: brown;
+		}
+		.product
+		{
+			border: 1px solid;
+			width: 220px;
+			height: 100px;
+		}
+		.items1
+		{
+			position: absolute;
+			right: 300px;
+			top: 10px;
+			left: 300px;
+		}
+		.items2
+		{
+         right: 40px;
+         top: 170px;
+         left: 300px;
+         bottom: 50px;
+			position: absolute;
+		}
+      .items3
+      {
+         position: absolute;
+         right: 370px;
+    	top: 490px;
+    	left: 300px;
+      }
+      .items4
+      {
+         position: absolute;
+         right: 320px;
+         top: 310px;
+         left: 300px;
+
+      }
+      .items5
+      {
+         position: absolute;
+         right: 30px;
+         top: 310px;
+         left: 45px;
+         bottom: 20px;
+      }
+      .items6
+      {
+      	position: absolute;
+      	right: 300px;
+    	top: 490px;
+    	left: 45px
+      }
+      .items8
+      {
+      	position: absolute;
+      	top:170px;
+      	
+      }
+    .items9
+    {
+    	position: absolute;
+    	right: 370px;
+    	top: 800px;
+    	left: 300px;
+    	bottom: 10px;
+    }
+     .items10
+     {
+      position: absolute;
+    	right: 370px;
+    	top: 650px;
+    	left: 300px;
+    	bottom: 100px;
+     }
+     .items11
+     {
+     position: absolute;
+    	right: 370px;
+    	top: 650px;
+    	left: 46px;
+    	bottom: 10px;
+     }
+     .items12
+     {
+     position: absolute;
+    	right: 370px;
+    	top: 790px;
+    	left: 46px;
+    	bottom: 10px;
+     }
+      .mainproduct
+      {
+      	border: 1px solid;
+      	width: 800px;
+      	height: 582px;
+      	float: right;
+      	position: absolute;
+      	top: 25px;
+      	right: 600px;
+      	left: 450px;
+      	overflow: auto;
+       
+      }
+      .View1 li
+      {
+       position: absolute;
+       right: 10px;
+       top: 10px;
+       text-decoration: underline;
+       list-style: none;
+        font-size: 30px;
+      }
+      .View2 li
+      {
+       position: absolute;
+       right: 10px;
+       top: 170px;
+       text-decoration: underline;
+       list-style: none;
+        font-size: 30px;
+      }
+      .View3 li
+      {
+       position: absolute;
+       right: 10px;
+       top: 320px;
+       text-decoration: underline;
+       list-style: none;
+        font-size: 30px;
+      }
+        .View4 li
+      {
+       position: absolute;
+       right: 10px;
+       top:500px;
+       text-decoration: underline;
+       list-style: none;
+        font-size: 30px;
+      }
+        .View5 li
+      {
+       position: absolute;
+       right: 10px;
+       top: 650px;
+       text-decoration: underline;
+       list-style: none;
+        font-size: 30px;
+      }
+        .View6 li
+      {
+       position: absolute;
+       right: 10px;
+       top: 800px;
+       text-decoration: underline;
+       list-style: none;
+       font-size: 30px;
+      }
+      img
+      {
+      	 width: 220px;
+      	 height: 105px;
+      }
+     .subpart ,a
+      {
+      	list-style: none;
+      }

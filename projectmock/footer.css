@@ -1,0 +1,176 @@
+.container{
+				border: 2px solid;
+				width:100%;
+				height: 440px;
+				 background-color: #232F3E;
+			}
+			.header{
+				line-height: 19px;
+				width:100%;
+				text-align: center;
+				padding: 15px 0px;
+				background-color: #37475A;
+				color: #FFF;
+			}
+			.content{
+				font-size:16px;
+				font-weight: bold;
+				
+				color: #FFF;
+	}
+	.pos{
+		position: relative;
+		left: -14%;
+		top: 10%;
+
+	}
+	.nav{
+		
+		padding: 30px 30px;
+		margin: -17px 0 0px 31px;
+			
+
+	}
+	li{
+		list-style: none;
+		line-height: 200%;
+		font-size: 13px;
+		font-family: arial;
+	}
+	a{
+		
+		color: #DDD;
+		text-decoration: none;
+
+	}
+	a:hover{
+		text-decoration: underline;
+
+	}
+	span{
+		padding: 14px 16px;
+		text-decoration: none;
+			cursor: auto;
+			color:white;
+		
+		font-weight: 700;
+		font-size: 16px;
+		font-family: arial;
+		}
+	.box1,.box2,.box3,.box4{
+		float: left;
+		width: 206px;
+		height: 200px;
+		text-align: left;
+		margin: 40px;
+	}
+	.box6{
+	float: left;
+		
+		text-align: left;
+		margin: 40px;
+	}
+	.box7 a{
+		
+		position: relative;
+	top: -85px;
+
+	}
+	.line{
+	border: 1px solid #3a4553;
+	margin-top: 22%;
+	
+}
+.center{
+	display: block;
+	margin: 30px auto 15px 500px;
+}
+.country a{
+	font-size: 12px;
+	font-family: arial;
+	font-weight: 60;
+	margin:-14px;
+	position: relative;
+	left: 15%;
+	color: #DDD;
+
+
+}
+.foot{
+	
+	height:170px;
+	background: #131A22;
+	width:100%;
+	
+}
+.details{
+	font-family: arial;
+	font-size: 11px;
+	margin: 0 20px 0px 60px;
+
+   
+}
+.details_1 span{
+    color: #999;
+	font-family: arial;
+	font-size: 10px;
+	position: relative;
+	left: -17px;
+	margin: 0 20px 0px 60px;
+}
+.move{
+	position: relative;
+	left: -11px;
+}
+
+.move1{
+	position: relative;
+	left: 14px;
+}
+.move2{
+	position: relative;
+	left: -12px;
+}
+.last a{
+	position: relative;
+	left: 25%;
+	top: 2%;
+	font-size: 12px;
+	font-family: arial;
+    color: rgb(221, 221, 221);
+    font-weight: normal;
+
+
+}
+.last{
+	font-size: 12px;
+	font-family: arial;
+	height:80px;
+	background: #131A22;
+	width:100%;
+
+}
+.footer{
+	position: relative;
+	left: 25%;
+	top: 2%;
+	font-size: 12px;
+	font-family: arial;
+	color:#767676;
+	font-weight: normal;
+
+}
+.header a:hover{
+	text-decoration: none;
+}
+.outline{
+	border:  2px solid;
+	width: 110px;
+	height: 32px;
+	position: relative;
+	left: 50%;
+	top: -10%;
+	
+	border: 1px solid #848688;
+	border-radius: 3px;
+}

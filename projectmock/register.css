@@ -1,0 +1,42 @@
+	.header
+		{  
+			border: 1px solid;
+			width: 900px;
+			height: 60px;
+			text-align: center;
+			position: absolute;
+			right: 700px;
+      left: 440px;
+			background-color: #00FFFF;
+			color: brown;
+		}
+		.bodypart
+		{
+         border: 1px solid;
+         width: 900px;
+         height: 350px;
+         position: absolute;
+         top: 80px;
+         right: 190px;
+         background-color:#800080;
+         
+         }
+         ul li
+         {
+         	list-style: none;
+         	padding: 10px;
+         	margin: 10px;
+         }
+         body
+         {
+         	background-image: url("img/shop3.jpg");
+         	background-repeat: no-repeat;
+         	background-size: 1550px 1000px;
+         }
+         a
+         {
+            text-decoration: none;
+            color: #40ff00;
+            font-size: 20px;
+            font-weight: bolder;
+         }
